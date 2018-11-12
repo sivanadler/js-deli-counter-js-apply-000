@@ -1,5 +1,5 @@
 var katzDeliLine = [];
 
-Function takeANumber(){
+Function takeANumber(name,number){
   
 }
